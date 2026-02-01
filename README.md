@@ -8,8 +8,7 @@ This project is built as a real-world full-stack application using modern techno
 
 ## 🚀 Live Demo
 
-🔗 Deployed on **Vercel**
-(Frontend is hosted on Vercel for fast and reliable access)
+🔗https://freelancer-bd.vercel.app/
 
 ---
 
