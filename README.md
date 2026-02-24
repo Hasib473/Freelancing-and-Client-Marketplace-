@@ -154,7 +154,7 @@ This project was developed to:
 
 ## 👨‍💻 Author
 
-**Hassib**
+**Hasib Al Mamun**
 CSE Student | Full-Stack Developer
 
 ---
